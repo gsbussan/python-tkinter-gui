@@ -1,4 +1,4 @@
-# python-tkinter-gui(Restaurant Management System)
+# python-tkinter-gui
 The Graphical User Interface demonstrates usage of Python Tkinter Library.
 
 # Running GUI
