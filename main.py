@@ -2,7 +2,7 @@
 This Implementation deals with the Graphical User Interface using the Python Framework Tkinter
 """
 
-__author__ = '7358841, Singh'
+__author__ = 'Singh, Gurpreet'
 __email__ = 's3842317@stud.uni-frankfurt.de'
 
 import csv
