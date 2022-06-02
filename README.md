@@ -3,4 +3,5 @@ The Graphical User Interface demonstrates usage of Python Tkinter Library.
 
 # Running GUI
 - Clone the Code to your local Directory.
-- A Image should be first added to the local directoy which can be used as a Logo of the User Interface.
+- Have made explicitly the use of a CSV File and a PNG Image to explore the wide ecosystem of Python Libraries.
+- CSV File is just use to have the menu of Restaurant which can also be edited easily and new dishes can be added or removed.
